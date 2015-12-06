@@ -2,6 +2,7 @@ name: GJTestPage
 favicon: null
 layout_spectrum: 0.1339757484383881
 typography_spectrum: 0.3293627784587443
+title: Page to play with
 cta:
   domain: null
   bucket: null
