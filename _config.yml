@@ -1,7 +1,7 @@
 name: GJTestPage
 favicon: null
-layout_spectrum: 0.1339757484383881
-typography_spectrum: 0.3293627784587443
+layout_spectrum: 1
+typography_spectrum: 0.72862
 title: Page to play with
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.45021450077183545
+  brandStrength: 0.0625
   lightness: 0.7896029590629041
   saturation: 0.42342484137043357
   rhythmicContrast: 0.3032456065993756
