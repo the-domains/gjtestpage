@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Page to play with]]></title>
         <description><![CDATA[Page to play with]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gjtestpage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 20:58:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Dec 2015 22:02:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gjtestpage/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blah blah blah]]></title>
+            <description><![CDATA[<article><h1>Blah blah blah</h1><p>A bit about the picture</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04c0b254-2b1c-4fed-baca-a11370e819f9.gif"></article>]]></description>
+            <link>https://thegrid.ai/gjtestpage/blah-blah-blah/index.html</link>
+            <guid isPermaLink="false">1cc3d29c-8deb-465b-a508-9e35a6cacda9</guid>
+            <pubDate>Sun, 06 Dec 2015 22:02:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First page]]></title>
             <description><![CDATA[<article><h1>First page</h1><p>Testing this post and the ability to add attachments or links to PDFs. </p></article>]]></description>
-            <link>undefinedfirst-page/index.html</link>
+            <link>https://thegrid.ai/gjtestpage/first-page/index.html</link>
             <guid isPermaLink="false">60eb77a1-0cc1-41f3-97f2-28e23cfc5170</guid>
             <pubDate>Sun, 06 Dec 2015 20:58:17 GMT</pubDate>
         </item>
