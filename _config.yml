@@ -1,0 +1,28 @@
+name: GJTestPage
+favicon: null
+layout_spectrum: 0.1339757484383881
+typography_spectrum: 0.3293627784587443
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.45021450077183545
+  lightness: 0.7896029590629041
+  saturation: 0.42342484137043357
+  rhythmicContrast: 0.3032456065993756
+purpose: []
