@@ -4,11 +4,18 @@
         <description><![CDATA[Page to play with]]></description>
         <link>https://thegrid.ai/gjtestpage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 22:02:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 15:27:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gjtestpage/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Another test page]]></title>
+            <description><![CDATA[<article><h1>Another test page</h1><p>Something about Zika </p></article>]]></description>
+            <link>https://thegrid.ai/gjtestpage/another-test-page/index.html</link>
+            <guid isPermaLink="false">5ad9e067-e25c-40bd-a4e6-d79b7f6b64db</guid>
+            <pubDate>Tue, 09 Feb 2016 15:27:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Blah blah blah]]></title>
-            <description><![CDATA[<article><h1>Blah blah blah</h1><p>A bit about the picture</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04c0b254-2b1c-4fed-baca-a11370e819f9.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Blah blah blah</h1><p>A bit about the picture</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6faeb3749d3cb162ee5174a8bd4368b34c81226b.gif"></article>]]></description>
             <link>https://thegrid.ai/gjtestpage/blah-blah-blah/index.html</link>
             <guid isPermaLink="false">1cc3d29c-8deb-465b-a508-9e35a6cacda9</guid>
             <pubDate>Sun, 06 Dec 2015 22:02:18 GMT</pubDate>
