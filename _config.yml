@@ -1,7 +1,7 @@
 name: GJTestPage
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.72862
+layout_spectrum: 0.24976
+typography_spectrum: 0.74233
 title: Practice page for DIGESTED
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.0625
+    - '#ffffff'
+    - '#4a9acd'
+    - '#f4ae4c'
+    - '#8e59a9'
+    - '#100e0f'
+  brandStrength: 0
   lightness: 0.7896029590629041
   saturation: 0.42342484137043357
   rhythmicContrast: 0.3032456065993756
