@@ -3,21 +3,16 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: Made at the RDH
-datePublished: '2016-02-09T15:27:38.980Z'
-dateModified: '2016-02-09T15:27:23.184Z'
-title: Another test page
+description: 'Something about Zika '
+datePublished: '2016-06-08T15:26:52.716Z'
+dateModified: '2016-06-08T15:25:17.369Z'
+title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-02-09-another-test-page.md
-published: true
+authors: []
+publisher: null
+starred: false
 url: another-test-page/index.html
 _type: Article
 
