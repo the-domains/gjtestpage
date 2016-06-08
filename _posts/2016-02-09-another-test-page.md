@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: 'Something about Zika '
-datePublished: '2016-06-08T15:27:18.082Z'
-dateModified: '2016-06-08T15:27:03.302Z'
+datePublished: '2016-06-08T15:27:39.027Z'
+dateModified: '2016-06-08T15:27:28.333Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-09-another-test-page.md
@@ -14,7 +14,7 @@ authors: []
 publisher: null
 starred: false
 url: another-test-page/index.html
-_type: WebPage
+_type: Article
 
 ---
 Something about Zika 
