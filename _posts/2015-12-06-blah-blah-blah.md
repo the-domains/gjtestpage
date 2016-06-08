@@ -1,23 +1,18 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-06T22:02:18.072Z'
-dateModified: '2015-12-06T22:01:47.023Z'
+description: A bit about the picture
+datePublished: '2016-06-08T15:26:07.409Z'
+dateModified: '2016-06-08T15:26:05.862Z'
 title: Blah blah blah
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2015-12-06-blah-blah-blah.md
-published: true
+authors: []
+publisher: null
+starred: false
 url: blah-blah-blah/index.html
 _type: Article
 
@@ -30,3 +25,9 @@ A bit about the picture
 Something else about it
 
 Maybe something else
+
+There could be a discussion about trauma at different sites and the different abnormalities
+
+Maybe an interesting case discussion. 
+
+This will be working mainly like a blog.
