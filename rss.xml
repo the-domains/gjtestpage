@@ -4,8 +4,15 @@
         <description><![CDATA[Practice page for DIGESTED]]></description>
         <link>https://thegrid.ai/gjtestpage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 18:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 15:26:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gjtestpage/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blah blah blah]]></title>
+            <description><![CDATA[<article><h1>Blah blah blah</h1><p>A bit about the picture</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c01d31a461a408948d3db424d7690d2627c155b.gif"></article>]]></description>
+            <link>https://thegrid.ai/gjtestpage/blah-blah-blah/index.html</link>
+            <guid isPermaLink="false">1cc3d29c-8deb-465b-a508-9e35a6cacda9</guid>
+            <pubDate>Wed, 08 Jun 2016 15:26:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Title of very important paper]]></title>
             <description><![CDATA[<article><h1>Title of very important paper</h1><p></p></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/gjtestpage/another-test-page/index.html</link>
             <guid isPermaLink="false">5ad9e067-e25c-40bd-a4e6-d79b7f6b64db</guid>
             <pubDate>Tue, 09 Feb 2016 15:27:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blah blah blah]]></title>
-            <description><![CDATA[<article><h1>Blah blah blah</h1><p>A bit about the picture</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6faeb3749d3cb162ee5174a8bd4368b34c81226b.gif"></article>]]></description>
-            <link>https://thegrid.ai/gjtestpage/blah-blah-blah/index.html</link>
-            <guid isPermaLink="false">1cc3d29c-8deb-465b-a508-9e35a6cacda9</guid>
-            <pubDate>Sun, 06 Dec 2015 22:02:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
